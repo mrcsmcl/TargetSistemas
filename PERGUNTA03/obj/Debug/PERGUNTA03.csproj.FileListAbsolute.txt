@@ -1,0 +1,11 @@
+C:\Users\mrcsm\Documents\GitHub\TargetSistemas\PERGUNTA03\bin\Debug\PERGUNTA03.exe.config
+C:\Users\mrcsm\Documents\GitHub\TargetSistemas\PERGUNTA03\bin\Debug\PERGUNTA03.exe
+C:\Users\mrcsm\Documents\GitHub\TargetSistemas\PERGUNTA03\bin\Debug\PERGUNTA03.pdb
+C:\Users\mrcsm\Documents\GitHub\TargetSistemas\PERGUNTA03\bin\Debug\Newtonsoft.Json.dll
+C:\Users\mrcsm\Documents\GitHub\TargetSistemas\PERGUNTA03\bin\Debug\Newtonsoft.Json.xml
+C:\Users\mrcsm\Documents\GitHub\TargetSistemas\PERGUNTA03\obj\Debug\PERGUNTA03.csproj.AssemblyReference.cache
+C:\Users\mrcsm\Documents\GitHub\TargetSistemas\PERGUNTA03\obj\Debug\PERGUNTA03.csproj.SuggestedBindingRedirects.cache
+C:\Users\mrcsm\Documents\GitHub\TargetSistemas\PERGUNTA03\obj\Debug\PERGUNTA03.csproj.CoreCompileInputs.cache
+C:\Users\mrcsm\Documents\GitHub\TargetSistemas\PERGUNTA03\obj\Debug\PERGUNTA03.csproj.CopyComplete
+C:\Users\mrcsm\Documents\GitHub\TargetSistemas\PERGUNTA03\obj\Debug\PERGUNTA03.exe
+C:\Users\mrcsm\Documents\GitHub\TargetSistemas\PERGUNTA03\obj\Debug\PERGUNTA03.pdb

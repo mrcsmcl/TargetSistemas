@@ -1,0 +1,8 @@
+C:\Users\mrcsm\Documents\GitHub\TargetSistemas\PERGUNTA04\bin\Debug\PERGUNTA04.exe.config
+C:\Users\mrcsm\Documents\GitHub\TargetSistemas\PERGUNTA04\bin\Debug\PERGUNTA04.exe
+C:\Users\mrcsm\Documents\GitHub\TargetSistemas\PERGUNTA04\bin\Debug\PERGUNTA04.pdb
+C:\Users\mrcsm\Documents\GitHub\TargetSistemas\PERGUNTA04\obj\Debug\PERGUNTA04.csproj.AssemblyReference.cache
+C:\Users\mrcsm\Documents\GitHub\TargetSistemas\PERGUNTA04\obj\Debug\PERGUNTA04.csproj.SuggestedBindingRedirects.cache
+C:\Users\mrcsm\Documents\GitHub\TargetSistemas\PERGUNTA04\obj\Debug\PERGUNTA04.csproj.CoreCompileInputs.cache
+C:\Users\mrcsm\Documents\GitHub\TargetSistemas\PERGUNTA04\obj\Debug\PERGUNTA04.exe
+C:\Users\mrcsm\Documents\GitHub\TargetSistemas\PERGUNTA04\obj\Debug\PERGUNTA04.pdb
